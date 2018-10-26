@@ -5,7 +5,7 @@
 
 ## Agenda & Github links
 - [Github page](https://infn-esc.github.io/esc18)
-- [Github source code]https://github.com/infn-esc/esc18)
+- [Github source code](https://github.com/infn-esc/esc18)
 - [Agenda](https://agenda.infn.it/conferenceOtherViews.py?view=standard&confId=16941)
 
 ## The basics of Efficient Scientific Programming 
