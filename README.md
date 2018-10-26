@@ -1,7 +1,7 @@
 # Efficient Scientific Programming School 2018
 ### INFN @ Bertinoro, Italy 
 
-![Poster](https://github.com/jasrodis/efficient-scientific-computing-school/blob/master/Poster_ESC2018_v3.jpg | width=250)
+![Poster](https://github.com/jasrodis/efficient-scientific-computing-school/blob/master/Poster_ESC2018_v3.jpg)
 
 ## Agenda & Github links
 - [Github page](https://infn-esc.github.io/esc18)
