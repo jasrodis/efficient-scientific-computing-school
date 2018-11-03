@@ -6,6 +6,7 @@
 - [Github page](https://infn-esc.github.io/esc18)
 - [Github source code](https://github.com/infn-esc/esc18)
 - [Agenda](https://agenda.infn.it/conferenceOtherViews.py?view=standard&confId=16941)
+- [Application Page](https://web.infn.it/esc/index.php?option=com_content&view=article&id=3&Itemid=104&lang=en)
 
 ## The basics of Efficient Scientific Programming 
   - Modern Processor architectures
